@@ -1,5 +1,5 @@
 ```Markdown
-### You've reached https://github.com/JamesClick, congratulations.
+### You've reached https://github.com/JamesClick.
 
 What I do:
  - Build event management solutions for @game-on-entertainment so that event organizers can focus on putting on their event
